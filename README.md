@@ -1,4 +1,4 @@
-# ML and NLP: Binary classification of text as containing ±suicidal content through LR model
+# ML and NLP: Binary classification of text as containing ±suicidal content by LR
 
 ### Background:
 Dataset can be found [here](https://www.kaggle.com/qwqextra/redditdatasentimental). Although it contains 4 attributes, including sentimental encoding, I focused on the suicidal class label.
